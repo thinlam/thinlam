@@ -83,7 +83,8 @@
 
 # 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://github.com/thinlam22/thinlam22/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/thinlam/thinlam/blob/output/snake.svg" />
+
 </p>
 
 ---
