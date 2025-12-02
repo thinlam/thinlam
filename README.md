@@ -84,8 +84,8 @@
 # 🐍 **Contribution Snake**
 <p align="center">
   <img src="https://github.com/thinlam/thinlam/blob/output/snake.svg" />
-
 </p>
+
 
 ---
 
