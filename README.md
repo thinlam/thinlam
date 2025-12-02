@@ -42,15 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thinlam22&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinlam22&layout=compact&theme=tokyonight" />
-</p>
-
-
-
----
 ## ⚡ My Main Languages (Neon Gaming Style)
 
 ![C#](https://img.shields.io/badge/C%23-00F0FF?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000)
