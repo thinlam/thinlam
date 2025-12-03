@@ -1,10 +1,9 @@
-
 <p align="center">
-  <img src="![z7266212404992_1f4810578f93c0bac4adac111eb17b91](https://github.com/user-attachments/assets/f1cf3654-6352-4eba-ae10-0d1d09a41bd6)
-" height="60" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/thinlam/thinlam/main/z7266212404992_1f4810578f93c0bac4adac111eb17b91.jpg" height="70" style="margin-right:15px;" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=CHÍP+CHÍP+-+GAME+%26+MOBILE+DEVELOPER;Welcome+to+My+Github+Profile+🔥;Neon+Gaming+%7C+Cyberpunk+Style" />
 </p>
+
 
 
 ---
