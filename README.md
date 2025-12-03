@@ -17,7 +17,7 @@
 
 ## 🚀 **About Me**
 ✨ Developer đam mê **game, animation, UI/UX**  
-📱 Phát triển **Mobile App** (Android/iOS — Kotlin, Java, Swift, Flutter, Dart)  
+📱 Phát triển **Mobile App** (Android/iOS — Kotlin, Java, Swift, Flutter, Dart, react native, react JS)  
 🎮 Làm game bằng **Unity, C#, C++**  
 ⚙️ Thích **neon effects, cyberpunk UI, shaders**  
 🎯 Mục tiêu: Trở thành **Game + Mobile Engineer** chuyên nghiệp
