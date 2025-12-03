@@ -46,7 +46,7 @@
 
 ### 🔧 **Other Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,ChatGPT&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark" />
 </p>
 
 ---
