@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=CHÍP+CHÍP+-+GAME+%26+MOBILE+DEVELOPER;Welcome+to+My+Github+Profile+%F0%9F%94%A5;Neon+Gaming+%7C+Cyberpunk+Style" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=CHÍP+CHÍP+-+GAME+%26+MOBILE+DEVELOPER;Welcome+to+My+Github+Profile+🔥;Neon+Gaming+%7C+Cyberpunk+Style" />
 </p>
+
 
 ---
 
