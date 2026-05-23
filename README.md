@@ -41,7 +41,7 @@
 
 ### 🧱 **Backend & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,python,go&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,.NET,express,firebase,mongodb,mysql,python,go&theme=dark" />
 </p>
 
 ### 🤖 **AI & Productivity Tools**
