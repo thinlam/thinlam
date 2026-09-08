@@ -41,19 +41,22 @@
 
 ### ⚙️ **Backend Development**
 
+### ⚙️ **Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,cs&theme=dark" />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=00F0FF" />
-
-  <img src="https://img.shields.io/badge/RESTful%20API-0D1117?style=for-the-badge&logo=swagger&logoColor=00F0FF" />
-
-  <img src="https://img.shields.io/badge/⚡%20CQRS-0D1117?style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/🏗️%20DDD-0D1117?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/RESTful%20API-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/CQRS-0D1117?style=for-the-badge&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/DDD-0D1117?style=for-the-badge&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=00F0FF" />
-
-  <img src="https://img.shields.io/badge/🗄️%20Dapper-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dapper-0D1117?style=for-the-badge&logo=dotnet&logoColor=00F0FF" />
 </p>
+
 ---
 
 ### 🌐 **Frontend Development**
