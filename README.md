@@ -41,8 +41,6 @@
 
 ### ⚙️ **Backend Development**
 
-### ⚙️ **Backend Development**
-
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,cs&theme=dark" />
 </p>
